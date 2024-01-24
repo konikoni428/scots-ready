@@ -1,2 +1,5 @@
 **/*.o
 **/*.bdd
+datasizes.h
+sizecheck
+sizecheck.exe
