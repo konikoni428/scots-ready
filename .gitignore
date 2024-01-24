@@ -1,5 +1,5 @@
 **/*.o
 **/*.bdd
-datasizes.h
-sizecheck
-sizecheck.exe
+cudd-3.0.0/datasizes.h
+cudd-3.0.0/sizecheck
+cudd-3.0.0/sizecheck.exe
